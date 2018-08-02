@@ -1,0 +1,2 @@
+# learnJavascript
+testing js skills
